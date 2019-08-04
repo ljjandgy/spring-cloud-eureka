@@ -1,0 +1,11 @@
+server:
+  port: 8765
+  servlet:
+    context-path: feign
+spring:
+  application:
+    name: eureka-feign
+eureka:
+  client:
+    service-url:
+      defaultZone: http://lcoalhost:8761/eureka
