@@ -5,7 +5,7 @@ eureka:
 server:
   port: 8766
   servlet:
-    context-path: eureka/client
+    context-path: /eureka/client
 spring:
   application:
     name: eureka-client
