@@ -29,16 +29,3 @@ build/
 
 ### VS Code ###
 .vscode/
-
-/*/wrapper/*
-/mvnw*
-/eurekaserver/*/wrapper/*
-/eurekaserver/.mvn/wrapper/maven-wrapper.jar
-/eurekaserver/*/wrapper/maven-wrapper.jar
-/eurekaserver/*/wrapper/*.jar
-/eurekaserver/m*
-/eureka-client/*/wrapper/*
-/eureka-client/mvn*
-/eureka-client/.mvn/wrapper/*
-/*/.mvn/*/*
-/r*/.mvn/wrapper/*
