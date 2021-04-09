@@ -9,3 +9,7 @@ server:
 spring:
   application:
     name: eureka-client
+  activemq:
+    broker-url: tcp://localhost:61616
+    user: admin
+    password: admin
